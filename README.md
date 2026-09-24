@@ -1,136 +1,111 @@
-# LasinduViduranga
-# 👋 Hi, I'm Lasindu Viduranga
+73276239<!-- ===== HEADER ===== -->
 
-🎓 Electrical & Electronic Engineering Undergraduate (Telecommunication Engineering)
-📡 Passionate about **UAV Communication | RF Systems | Satellite Tech | IoT | ML**
-🚀 Building real-world engineering systems with long-range communication
+<h1 align="center">Hi 👋, I'm Lasindu Viduranga</h1>
+<h3 align="center">🚀 Telecommunication Engineering Undergraduate | UAV • RF • Satellite Systems</h3>
 
----
-
-## 📌 Quick Navigation
-
-* [🚀 Projects](#-projects)
-* [📡 RF & Communication](#-rf--communication)
-* [🤖 Machine Learning](#-machine-learning)
-* [🛠️ Tech Stack](#️-tech-stack)
-* [📊 GitHub Stats](#-github-stats)
-* [📬 Contact](#-contact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=UAV+Communication+Engineer;RF+%2F+LoRa+Systems+Designer;Embedded+Systems+Developer;Machine+Learning+Enthusiast" />
+</p>
 
 ---
 
-## 🚀 Projects
+## ⚡ About Me
 
-<details>
-<summary>🚁 Aeolus 1.0 – Long-Endurance UAV System</summary>
+* 🎓 3rd Year Electrical & Electronic Engineering Undergraduate
+* 📡 Focused on **UAV Communication, RF Systems & Satellite Tech**
+* 🚁 Building **long-range telemetry systems (LoRa + ESP32)**
+* 🌍 Interested in **global engineering opportunities**
 
-* Fixed-wing UAV for environmental monitoring
-* Long-range telemetry using **LoRa communication**
-* ESP32-based custom flight & communication system
-* Focus on **>40–80 km communication range**
-* Payload: Gas sensors (CO₂, NO₂, SO₂, etc.)
+---
+
+## 🚀 Featured Projects
+
+### 🚁 Aeolus 1.0
+
+> Long-endurance UAV with advanced telemetry
+
+* 📡 LoRa-based long-range communication
+* 🧠 Custom ESP32 communication system
+* 🌡️ Environmental + gas sensing payload
 
 🔗 https://github.com/yourusername/aeolus
 
-</details>
-
 ---
 
-<details>
-<summary>🌊 RescueMesh – Disaster Communication Network</summary>
+### 🌊 RescueMesh
 
-* LoRa-based emergency communication system
-* Works **without mobile network coverage**
-* Sends SOS + environmental data to central node
-* Designed for flood/disaster scenarios
+> Disaster-resilient communication network
 
-🏆 SLIOT National IoT Challenge – Semi-finalist
+* 📶 Works without cellular infrastructure
+* 🚨 SOS + environmental data transmission
+* 🛰️ LPWAN architecture for emergencies
+
+🏆 SLIOT IoT Challenge Semi-finalist
 
 🔗 https://github.com/yourusername/rescuemesh
 
-</details>
+---
+
+### 🥄 WeMakeIt
+
+> Assistive stabilization device
+
+* ⚙️ 2-axis motion stabilization
+* 🧠 Embedded control system
+
+🏆 Arduino Challenge Winner | IEEE SSCS Award
 
 ---
 
-<details>
-<summary>🥄 WeMakeIt – Smart Stabilizing Spoon</summary>
+## 📡 Core Engineering Domains
 
-* Assistive device for Parkinson’s patients
-* 2-axis stabilization system
-* Embedded control + sensor integration
-
-🏆 1st Runner-up – Sri Lanka Arduino Challenge
-🏆 Technical Excellence Award – IEEE SSCS
-
-</details>
-
----
-
-## 📡 RF & Communication
-
-* 📶 LoRa System Design & Optimization
-* 📡 Antenna Design (Patch, Matching, Tuning)
-* 📊 Link Budget & RF Propagation Analysis
-* 🛰️ Satellite Communication Fundamentals
-* 📡 Spectrum & Signal Analysis
-
----
-
-## 🤖 Machine Learning
-
-* 🧠 Image-based **Antenna Crack Detection**
-* 📷 Edge-based ML with embedded systems
-* 🧮 SVM, PCA, basic computer vision pipelines
-* 🔍 Feature extraction for RF/visual systems
+```text
+UAV Communication  ████████████████
+RF Systems         ███████████████
+Antenna Design     █████████████
+IoT Systems        ███████████████
+Machine Learning   ██████████
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+<p align="center">
 
-![C](https://img.shields.io/badge/C-blue)
-![Python](https://img.shields.io/badge/Python-yellow)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino" /><br> <img src="https://skillicons.dev/icons?i=github,vscode,git" />
 
-### ⚡ Hardware & Tools
-
-![ESP32](https://img.shields.io/badge/ESP32-green)
-![Arduino](https://img.shields.io/badge/Arduino-blue)
-![LoRa](https://img.shields.io/badge/LoRa-RF-red)
-
-### 🧰 Software
-
-* MATLAB
-* CST Studio (Learning)
-* AutoCAD / SolidWorks
-* VS Code / Jupyter Notebook
-* GitHub Desktop
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact)
-
----
-
-## 📬 Contact
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 🔗 LinkedIn: https://linkedin.com/in/yourprofile
-* 🌐 Portfolio (optional): your-site.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚡ Current Focus
+## 🎯 Current Focus
 
-* 🚁 UAV Telemetry & Ground Station Design
-* 📡 Long-range RF Communication (LoRa + Antennas)
+* 🚁 UAV Telemetry & Ground Station Systems
+* 📡 Long-range RF (LoRa + Antenna Optimization)
 * 🛰️ Satellite Communication Concepts
-* 🤖 Embedded + ML integration
+* 🤖 Embedded + Machine Learning Integration
 
 ---
 
-⭐ *Always building, always learning — aiming for global engineering impact.*
+## 📬 Connect With Me
 
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="mailto:your-email@example.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>Engineering the future of communication systems</i>
+</p>
