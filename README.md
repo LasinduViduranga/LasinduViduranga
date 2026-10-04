@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Lasindu Viduranga 👋</h1>
 
-<h3 align="center">Electrical & Electronic Engineering Undergraduate | UAV • RF Systems • Embedded AI</h3>
+<h3 align="center">Electrical & Electronic Engineering Undergraduate | Telecommunication • RF Systems • Embedded AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=UAV+Systems+Engineer;RF+%26+Communication+Systems;Embedded+AI+Developer;Building+Real-World+Engineering+Systems" />
