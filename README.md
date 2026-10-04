@@ -1,141 +1,78 @@
-<!-- 🎮 GAME PROFILE HEADER -->
+<!-- ===================== HERO ===================== -->
 
-<h1 align="center">🏆 ENGINEERING PLAYER PROFILE</h1>
-<h3 align="center">🎮 Lasindu Viduranga | UAV • RF • Embedded Systems</h3>
+<h1 align="center">Hi, I'm Lasindu Viduranga 👋</h1>
+
+<h3 align="center">Electrical & Electronic Engineering Undergraduate | UAV • RF Systems • Embedded AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=Initializing+Engineer+Profile...;Loading+UAV+Systems...;RF+Link+Stabilized...;Mission+Ready+🚁" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=UAV+Systems+Engineer;RF+%26+Communication+Systems;Embedded+AI+Developer;Building+Real-World+Engineering+Systems" />
 </p>
 
 ---
 
-## 🎮 PLAYER STATUS
+## 📌 ABOUT ME
 
-```
-PLAYER: Lasindu Viduranga
-CLASS: UAV Systems Engineer
-SPECIALIZATION: RF / Telecommunication / Embedded AI
-LEVEL: 03 (Engineering Undergraduate)
-LOCATION: Earth 🌍
-STATUS: ACTIVE 🟢
-```
+- 🎓 3rd-year Electrical & Electronic Engineering undergraduate (USJ)
+- 🚁 Working on UAV communication systems (LoRa / long-range RF)
+- 📡 Interested in RF propagation, antennas, and link optimization
+- 🤖 Exploring Edge AI for real-world engineering applications
+- 🌍 Goal: Work in UAV / Satellite / RF systems engineering internationally
 
 ---
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+## 🧠 CORE TECH STACK
 
-🥇 **Aeolus 1.0 UAV System Architect**
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
-* Built long-endurance UAV communication system
-* Integrated LoRa-based telemetry
-
-🥈 **RescueMesh Disaster Network**
-
-* Designed emergency LoRa communication system
-* Semi-finalist in national IoT challenge
-
-🥉 **Smart Assistive Device (WeMakeIt)**
-
-* 2-axis stabilization system for medical assistance
-* Award-winning embedded system design
+### 📡 Engineering Tools
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge)
+![CST](https://img.shields.io/badge/CST%20Studio-RF%20Simulation-blue?style=for-the-badge)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-red?style=for-the-badge)
 
 ---
 
-## 📊 SKILL XP PROGRESSION
-
-```text
-UAV Systems        ████████████████░░  85%
-RF Communication   ██████████████░░░░  75%
-LoRa Networks      ███████████████░░░  80%
-Antenna Design     ███████████░░░░░░░  60%
-Embedded Systems   ███████████████░░░  78%
-Machine Learning   ██████████░░░░░░░░  55%
-```
-
----
-
-## 🎯 CURRENT MISSIONS
-
-🚁 **Mission 1: Aeolus 1.0 Completion**
-
-> Build long-range UAV communication system (LoRa + ESP32)
-
-📡 **Mission 2: RF Link Optimization**
-
-> Improve antenna gain, reduce packet loss, extend range
-
-🛰️ **Mission 3: Satellite Communication Study**
-
-> Learn orbital communication systems + link budgets
-
-🤖 **Mission 4: ML Integration**
-
-> Edge AI for antenna crack detection system
-
----
-
-## ⚔️ EQUIPMENT INVENTORY
-
-💻 Programming:
-
-* C / C++
-* Python
-* MATLAB
-
-🧠 Engineering Tools:
-
-* ESP32 / Arduino
-* CST Studio Suite
-* AutoCAD / SolidWorks
-
-📡 Communication Gear:
-
-* LoRa Modules (433 MHz)
-* RF Prototyping Kits
-* Antenna Testing Setup
-
----
-
-## 📡 LIVE SYSTEM STATUS
-
-🟢 UAV Telemetry: ONLINE
-🟢 RF Link Testing: ACTIVE
-🟡 Antenna Optimization: IN PROGRESS
-🟢 GitHub Systems: OPERATIONAL
-
----
-
-## 📈 PLAYER STATISTICS
+## 📊 GITHUB PERFORMANCE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LasinduViduranga&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasinduViduranga&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎖️ NEXT LEVEL UNLOCKS
+## 📡 CURRENT FOCUS
 
-* 🚀 Advanced UAV Autonomy
-* 🛰️ Satellite Communication Systems Mastery
-* 📡 Long-Range RF Optimization Expert
-* 🤖 Embedded AI Engineer
-
----
-
-## 💬 PLAYER QUOTE
-
-> “Engineering is not theory — it’s building systems that survive reality.”
+- 🚁 UAV long-range telemetry system (LoRa / ESP32)
+- 📡 RF link optimization & antenna tuning
+- 🛰️ Satellite communication fundamentals
+- 🤖 Edge AI for embedded systems
 
 ---
 
-## 🔗 CONNECT WITH PLAYER
+## 📈 REAL-TIME ACTIVITY
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 🔗 LinkedIn: your-link
-* 🌍 GitHub: https://github.com/yourusername
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LasinduViduranga&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📬 CONNECT
+
+- 📧 Email: wplvidu@gmail.com 
+- 🔗 LinkedIn: https://www.linkedin.com/in/lasindu-viduranga-659265323/
+- 💻 GitHub: https://github.com/LasinduViduranga
 
 ---
 
 <p align="center">
-⚡ LEVELING UP THROUGH REAL-WORLD ENGINEERING ⚡
+⚡ Building real-world engineering systems, not just code ⚡
 </p>
